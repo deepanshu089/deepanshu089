@@ -4,18 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder+%26+Hackathon+Winner;BTech+ECE+%40+NIT+Silchar;Top+1.5%25+Adobe+Hackathon;Competitive+Programmer" />
 </p>
 
----
 
 ## 🎓 About Me  
 
-🎓 BTech ECE @ **NIT Silchar** (CGPA: **8.03**)  
+🎓 BTech ECE @ **NIT Silchar** 
 💻 Full Stack Developer | AI Builder | Competitive Programmer  
 🏆 Winner — **NITS HACKS 7.0** | Top **1.5% Adobe India Hackathon**  
 🧠 Strong in **DSA, System Design, Web, AI/ML Basics**  
 📊 Solved **200+ DSA Problems**  
 🎥 Creator of **Sharmaji Captures**  
 
----
 
 ## 💼 Work Experience  
 
@@ -27,7 +25,6 @@
 
 **Tech:** React.js, Node.js, SQL  
 
----
 
 ## 🛠 Tech Stack  
 
@@ -35,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,sql,html,css,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,figma,vercel,docker&perline=9" />
 </p>
 
----
 
 ## 🏆 Achievements  
 
@@ -43,7 +39,7 @@
 - 🏅 **Top 1.5% — Adobe India Hackathon 2025**  
 - 🏆 **Top 20 — Suprathon 2025**  
 
----
+
 
 ## 📊 GitHub Stats (One Row)
 
@@ -53,23 +49,7 @@
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu089&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu089&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/deepanshu089/deepanshu089/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 
