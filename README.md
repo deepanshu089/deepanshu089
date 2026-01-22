@@ -17,7 +17,7 @@
 
 ## 💼 Work Experience  
 
-### **Full Stack Developer Intern — A2 Developers (Jun–Jul 2025)**  
+### **Full Stack Developer Intern — A2 Developers **  
 - Built student attendance module serving **1,000+ users**  
 - Improved admin workflow efficiency by **40%**  
 - Reduced API latency by **30%** via SQL optimization  
