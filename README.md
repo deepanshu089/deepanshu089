@@ -29,52 +29,61 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🔹 **Hire-EZ — AI Recruitment Platform**  
-- AI-powered ATS reducing recruiter workload by **60%**  
-- Resume parsing, NLP-based candidate scoring  
-- Voice-based async interviews using **Vapi AI**  
-- Automated email workflows & dashboards  
-**Tech:** Next.js, TypeScript, Supabase, Hugging Face, NodeMailer  
-
----
-
-### 🔹 **LinkedIn-Lite — Full Stack MERN Platform**  
-- JWT authentication & secure role-based access  
-- Razorpay integration (**200+ daily test transactions**)  
-- Real-time chat using MongoDB + WebSockets (**500+ users**)  
-**Tech:** MongoDB, Express, React, Node.js  
-
----
-
-### 🔹 **Incandescence 2025 — Cultural Fest Website**  
-- Animated UI sections increasing engagement by **40%**  
-- Google Auth for **1000+ users**  
-- Reusable TypeScript components, responsive UI  
-**Tech:** Next.js, TypeScript, Tailwind CSS, Firebase  
-
----
-
 ## 🛠 Tech Stack  
 
-### **Languages**  
-C, C++, JavaScript, TypeScript, Python, SQL  
+### **Languages**
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql)
 
-### **Frontend**  
-React.js, Next.js, Redux, HTML, CSS, Tailwind  
+---
 
-### **Backend**  
-Node.js, Express.js, REST APIs  
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss)
 
-### **Databases**  
-MongoDB, MySQL, Supabase  
+---
 
-### **AI / CS Fundamentals**  
-AI/ML Basics, LangChain, DSA, OOP, OS, DBMS, Computer Networks  
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-grey?style=flat)
 
-### **Tools**  
-GitHub, Figma, Vercel, Cursor, Chrome DevTools  
+---
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+
+---
+
+### **AI / CS Fundamentals**
+![AI](https://img.shields.io/badge/AI/ML-orange?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat)
+![DSA](https://img.shields.io/badge/DSA-red?style=flat)
+![OOP](https://img.shields.io/badge/OOP-purple?style=flat)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-grey?style=flat)
+![DBMS](https://img.shields.io/badge/DBMS-lightblue?style=flat)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-darkblue?style=flat)
+
+---
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/Figma-purple?style=flat&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-blue?style=flat&logo=googlechrome)
+![Cursor](https://img.shields.io/badge/Cursor_AI-black?style=flat)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-black?style=flat&logo=githubcopilot)
 
 ---
 
@@ -100,11 +109,11 @@ GitHub, Figma, Vercel, Cursor, Chrome DevTools
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/deepanshu-sharma-b3a46828a/
+- 💼 LinkedIn: https://www.linkedin.com/in/deepanshu-sharma-b3a46828a/  
 - 💻 GitHub: https://github.com/deepanshu089  
 - 📧 Email: dsharma1official@gmail.com  
-- 🎥 YouTube: **Sharmaji Captures**  
-- 🧠 LeetCode: *(Add link)*  
+- 🎥 YouTube: https://www.youtube.com/@DeepanshuSharmaNITS  
+- 🧠 LeetCode: https://leetcode.com/u/nvdSzkU5tB/  
 
 ---
 
